@@ -1,0 +1,31 @@
+# ===== Unreal Engine 构建产物 =====
+#Binaries/
+ToolsBox/Intermediate/
+ToolsBox/Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+.idea/
+
+# ===== 解决方案 / 工程文件（通常由引擎生成） =====
+*.sln
+*.slnx
+
+# ===== 本地用户配置 =====
+*.user
+*.VC.db
+*.opendb
+ToolsBox/Source/ToolsBox/Public/Tools/ToolUserDataSave
+
+# ===== 合并 / 临时代码碎片 =====
+merged_code.txt
+Source/merged_code.txt
+
+# ===== 代理 / 工作区记忆（不属于插件本体） =====
+.workbuddy/
+.git/
+
+# ===== 操作系统垃圾文件 =====
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,1499 @@
+﻿# ToolsBox Japanese translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ToolsBox\n"
+"POT-Creation-Date: 2026-08-06 04:24\n"
+"PO-Revision-Date: 2026-08-06 04:24\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	ToolsBox_OpenToolsBox
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/OpenToolsBox_Command.cpp(8)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/OpenToolsBox_Command.cpp(8)
+msgctxt "UICommands.OpenToolsBox_Command,ToolsBox_OpenToolsBox"
+msgid "ToolsBox"
+msgstr "ツールボックス"
+
+#. Key:	ToolsBox_OpenToolsBox_ToolTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/OpenToolsBox_Command.cpp(8)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/OpenToolsBox_Command.cpp(8)
+msgctxt "UICommands.OpenToolsBox_Command,ToolsBox_OpenToolsBox_ToolTip"
+msgid "点击打开功能窗口"
+msgstr "機能ウィンドウを開く"
+
+#. Key:	OpenAuthorURL
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(111)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(111)
+msgctxt "ToolsBox,OpenAuthorURL"
+msgid "打开作者页面"
+msgstr "作者ページを開く"
+
+#. Key:	DetailsTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(136)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(136)
+msgctxt "Info,DetailsTitle"
+msgid "关于"
+msgstr "について"
+
+#. Key:	GoBilibili
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(148)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(148)
+msgctxt "Info,GoBilibili"
+msgid "前往bilibili"
+msgstr "bilibiliへ"
+
+#. Key:	GoGithub
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(154)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(154)
+msgctxt "Info,GoGithub"
+msgid "前往github"
+msgstr "GitHubへ"
+
+#. Key:	Donate
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(161)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(161)
+msgctxt "Info,Donate"
+msgid "制作不易，恳求打赏，谢谢喵ฅ^•ﻌ•^ฅ"
+msgstr "制作は大変でした。投げ銭をお願いします。ありがとうございます ฅ^•ﻌ•^ฅ"
+
+#. Key:	OpenBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(93)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Slate_Assist/SlateAssistBuildFunctionLibrary.cpp(93)
+msgctxt "ToolsBox,OpenBtn"
+msgid "打开工具"
+msgstr "ツールを開く"
+
+#. Key:	NewSetBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(106)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(106)
+msgctxt "AutoPrefixTool,NewSetBtn"
+msgid "新建空配置"
+msgstr "新規空設定"
+
+#. Key:	NewSetBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(107)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(107)
+msgctxt "AutoPrefixTool,NewSetBtnTip"
+msgid "清空当前规则表，从零开始配置一套新的前缀"
+msgstr "現在のルール表をクリアし、ゼロから新しいプレフィックスを設定"
+
+#. Key:	SetNameLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(129)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(129)
+msgctxt "AutoPrefixTool,SetNameLabel"
+msgid "配置名称: "
+msgstr "設定名: "
+
+#. Key:	SetNameHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(135)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(135)
+msgctxt "AutoPrefixTool,SetNameHint"
+msgid "这套前缀保存时使用的名字"
+msgstr "このプレフィックスセット保存時に使う名前"
+
+#. Key:	ColClass
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(155)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(155)
+msgctxt "AutoPrefixTool,ColClass"
+msgid "目标类（蓝图填父类 / 资产填资产类型）"
+msgstr "対象クラス（ブループリントは親クラス／アセットはアセット種別）"
+
+#. Key:	ColPrefix
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(157)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(157)
+msgctxt "AutoPrefixTool,ColPrefix"
+msgid "前缀"
+msgstr "プレフィックス"
+
+#. Key:	ColOp
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(159)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(159)
+msgctxt "AutoPrefixTool,ColOp"
+msgid "  操作"
+msgstr "  操作"
+
+#. Key:	AddRuleBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(174)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(174)
+msgctxt "AutoPrefixTool,AddRuleBtn"
+msgid "+ 添加规则"
+msgstr "+ ルールを追加"
+
+#. Key:	SaveSetBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(188)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(188)
+msgctxt "AutoPrefixTool,SaveSetBtn"
+msgid "保存配置"
+msgstr "設定を保存"
+
+#. Key:	SaveSetBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(189)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(189)
+msgctxt "AutoPrefixTool,SaveSetBtnTip"
+msgid "把当前配置追加保存到 JSON，同名则覆盖该配置"
+msgstr "現在の設定をJSONに追記保存します。同名なら上書き"
+
+#. Key:	ReloadBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(196)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(196)
+msgctxt "AutoPrefixTool,ReloadBtn"
+msgid "重新加载"
+msgstr "再読み込み"
+
+#. Key:	ReloadBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(197)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(197)
+msgctxt "AutoPrefixTool,ReloadBtnTip"
+msgid "丢弃当前修改，从 JSON 重新读取全部配置"
+msgstr "現在の変更を破棄し、JSONから全設定を再読込"
+
+#. Key:	ResetBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(211)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(211)
+msgctxt "AutoPrefixTool,ResetBtn"
+msgid "重置默认值"
+msgstr "デフォルトに戻す"
+
+#. Key:	ResetBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(212)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(212)
+msgctxt "AutoPrefixTool,ResetBtnTip"
+msgid "把当前配置的规则恢复为内置默认（常见 UE 命名约定），仅在内存中生效，点 保存配置 可持久化"
+msgstr "現在の設定のルールを内蔵デフォルト（UE一般的命名規則）に戻します。メモリ内のみ有効、保存設定で永続化"
+
+#. Key:	ApplyBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(219)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(219)
+msgctxt "AutoPrefixTool,ApplyBtn"
+msgid "应用到项目设置"
+msgstr "プロジェクト設定に適用"
+
+#. Key:	ApplyBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(221)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(221)
+msgctxt "AutoPrefixTool,ApplyBtnTip"
+msgid "把当前配置写入 DefaultGame.ini，更新 项目设置 -> 插件 -> AutoPrefix "
+msgstr "現在の設定をDefaultGame.iniに書き込み、プロジェクト設定→プラグイン→AutoPrefixを更新"
+
+#. Key:	PullBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(228)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(228)
+msgctxt "AutoPrefixTool,PullBtn"
+msgid "从项目设置读取"
+msgstr "プロジェクト設定から読込"
+
+#. Key:	PullBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(229)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(229)
+msgctxt "AutoPrefixTool,PullBtnTip"
+msgid "把项目设置里现有的配置反向读回面板"
+msgstr "プロジェクト設定の既存設定をパネルに逆読込"
+
+#. Key:	OpenFolderBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(236)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(236)
+msgctxt "AutoPrefixTool,OpenFolderBtn"
+msgid "打开配置文件夹"
+msgstr "設定フォルダを開く"
+
+#. Key:	PrefixHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(702)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(702)
+msgctxt "AutoPrefixTool,PrefixHint"
+msgid "如 BP_"
+msgstr "例: BP_"
+
+#. Key:	RemoveRuleBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(714)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(714)
+msgctxt "AutoPrefixTool,RemoveRuleBtn"
+msgid "删除"
+msgstr "削除"
+
+#. Key:	RemoveRuleBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(715)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(715)
+msgctxt "AutoPrefixTool,RemoveRuleBtnTip"
+msgid "删除这条规则"
+msgstr "このルールを削除"
+
+#. Key:	AutoPrefixHelp
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(72)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(72)
+msgctxt "AutoPrefixTool,AutoPrefixHelp"
+msgid "使用方法：\n  1. 在下方规则表里选择 目标类 及其 前缀\n  2. 填好表后可点击 保存配置 保存当前配置\n  3. 点 应用到项目设置 把当前这套写进 DefaultGame.ini 并生效\n  4. 之后新建蓝图/资产时，重命名输入框的默认值就会变成对应前缀\n  5. 改乱了可点 重置默认值 ，把当前配置恢复为默认前缀（需再点 应用到项目设置 才生效）\n  6. 本插件只接管蓝图/资产的前缀；C++ 类保持引擎原生"
+msgstr "使い方:\n  1. 下のルール表で対象クラスとそのプレフィックスを選択\n  2. 表を埋めたら「設定を保存」をクリックして現在の設定を保存\n  3. 「プロジェクト設定に適用」でこのセットをDefaultGame.iniに書き込み有効化\n  4. 以降新規作成するブループリント／アセットのリネーム欄の初期値が対応プレフィックスに\n  5. 乱した場合は「デフォルトに戻す」で現在の設定を既定プレフィックスに復元（再度「プロジェクト設定に適用」が必要）\n  6. 本プラグインはブループリント／アセットのプレフィックスのみ管理。C++クラスはエンジン標準のまま"
+
+#. Key:	DeleteSetBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(745)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(745)
+msgctxt "AutoPrefixTool,DeleteSetBtn"
+msgid "删除"
+msgstr "削除"
+
+#. Key:	DeleteSetBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(746)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(746)
+msgctxt "AutoPrefixTool,DeleteSetBtnTip"
+msgid "从 JSON 中删除这套前缀"
+msgstr "このプレフィックスセットをJSONから削除"
+
+#. Key:	SetLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(89)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/AutoPrefix/AutoPrefix.cpp(89)
+msgctxt "AutoPrefixTool,SetLabel"
+msgid "前缀配置: "
+msgstr "プレフィックス設定: "
+
+#. Key:	工具空白模版
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/BlankTemplateTool/BlankTemplateTool.cpp(11)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/BlankTemplateTool/BlankTemplateTool.cpp(11)
+msgctxt "SBlankTemplateTool,工具空白模版"
+msgid "工具空白模版"
+msgstr "ツール空テンプレート"
+
+#. Key:	Tip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(100)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(100)
+msgctxt "SImport_MM,Tip"
+msgid "如果纹理贴图不与模型同一层级下，而是处于同级的文件夹内，请输入统一的此文件夹名称。留空则默认贴图与模型同级。 "
+msgstr "テクスチャがモデルと同階層ではなく、同じ階層のフォルダ内にある場合、そのフォルダ名を入力してください。空白の場合はモデルと同じ階層になります。"
+
+#. Key:	TexHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(103)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(103)
+msgctxt "SImport_MM,TexHint"
+msgid "留空则在模型同级目录找贴图"
+msgstr "空白の場合はモデルと同じディレクトリからテクスチャを探す"
+
+#. Key:	NamingRules
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(109)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(109)
+msgctxt "SImport_MM,NamingRules"
+msgid "资产命名详细规则"
+msgstr "アセット命名の詳細ルール"
+
+#. Key:	CreateMI
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(137)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(137)
+msgctxt "SImport_MM,CreateMI"
+msgid "创建实例并应用"
+msgstr "インスタンスを作成して適用"
+
+#. Key:	CreateMITip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(138)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(138)
+msgctxt "SImport_MM,CreateMITip"
+msgid "在母材质基础上生成材质实例"
+msgstr "親マテリアルをベースにマテリアルインスタンスを生成"
+
+#. Key:	UseCombinedPrefix
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(151)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(151)
+msgctxt "SImport_MM,UseCombinedPrefix"
+msgid "拆分模型添加合并模型名前缀"
+msgstr "モデル分割時に結合モデル名プレフィックスを追加"
+
+#. Key:	UseCombinedPrefixTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(152)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(152)
+msgctxt "SImport_MM,UseCombinedPrefixTip"
+msgid "勾选时，合并模型拆分后的每个子模型会加上合并模型名作为前缀（如 SM_Chair_Seat）；取消勾选则只保留子模型原名（如 SM_Seat）"
+msgstr "チェック時、結合モデル分割後の各サブモデルに結合モデル名をプレフィックスとして付加（例: SM_Chair_Seat）。未チェック時はサブモデル元名のみ保持（例: SM_Seat）"
+
+#. Key:	UseMI
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(173)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(173)
+msgctxt "SImport_MM,UseMI"
+msgid "使用父材质实例"
+msgstr "親マテリアルインスタンスを使用"
+
+#. Key:	UseMITip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(174)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(174)
+msgctxt "SImport_MM,UseMITip"
+msgid "从已有父材质实例复制并设置贴图参数"
+msgstr "既存の親マテリアルインスタンスからコピーし、テクスチャパラメータを設定"
+
+#. Key:	CreateGenMat
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(191)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(191)
+msgctxt "SImport_MM,CreateGenMat"
+msgid "生成通用父材质及实例"
+msgstr "共通親マテリアルとインスタンスを生成"
+
+#. Key:	CreateGenMatTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(192)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(192)
+msgctxt "SImport_MM,CreateGenMatTip"
+msgid "自动创建一个带有标准参数(BaseColor, Normal, ORM)的父材质及其对应的实例"
+msgstr "標準パラメータ(BaseColor, Normal, ORM)を持つ親マテリアルと対応インスタンスを自動生成"
+
+#. Key:	ParamConfig
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(204)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(204)
+msgctxt "SImport_MM,ParamConfig"
+msgid "贴图参数名配置"
+msgstr "テクスチャパラメータ名設定"
+
+#. Key:	ToolTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(206)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(206)
+msgctxt "SImport_MM,ToolTip"
+msgid "如果使用自己自定义的材质球，请根据对应通道填写参数名"
+msgstr "独自のカスタムマテリアルを使う場合、対応チャンネルに応じてパラメータ名を入力"
+
+#. Key:	Run
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(228)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(228)
+msgctxt "SImport_MM,Run"
+msgid "导入"
+msgstr "インポート"
+
+#. Key:	LogLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(235)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(235)
+msgctxt "SImport_MM,LogLabel"
+msgid "任务日志:"
+msgstr "タスクログ:"
+
+#. Key:	Clear
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(236)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(236)
+msgctxt "SImport_MM,Clear"
+msgid "清空日志"
+msgstr "ログをクリア"
+
+#. Key:	PrefixLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(286)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(286)
+msgctxt "SImport_MM,PrefixLabel"
+msgid "前缀:"
+msgstr "プレフィックス:"
+
+#. Key:	SuffixLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(308)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(308)
+msgctxt "SImport_MM,SuffixLabel"
+msgid "后缀:"
+msgstr "サフィックス:"
+
+#. Key:	SuffixHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(313)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(313)
+msgctxt "SImport_MM,SuffixHint"
+msgid "输入后缀内容..."
+msgstr "サフィックス内容を入力..."
+
+#. Key:	Title
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(58)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(58)
+msgctxt "SImport_MM,Title"
+msgid "批量导入工具"
+msgstr "一括インポートツール"
+
+#. Key:	AutoPrefixHelp
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(66)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(66)
+msgctxt "SImport_MM,AutoPrefixHelp"
+msgid "使用方法：\n  1. 选择要导入模型和贴图的文件夹\n  2. 点导入即可\n  还不清楚怎么用可前往作者B站查看使用教程\n"
+msgstr "使い方:\n  1. インポートするモデルとテクスチャのフォルダを選択\n  2. 「インポート」をクリックで開始\n  使い方が不明な場合は作者のBilibiliでチュートリアルを参照\n"
+
+#. Key:	Src
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(80)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(80)
+msgctxt "SImport_MM,Src"
+msgid "源文件夹: "
+msgstr "ソースフォルダ: "
+
+#. Key:	B1
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(82)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(82)
+msgctxt "SImport_MM,B1"
+msgid "浏览"
+msgstr "参照"
+
+#. Key:	Dst
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(86)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(86)
+msgctxt "SImport_MM,Dst"
+msgid "保存位置: "
+msgstr "保存場所: "
+
+#. Key:	Hint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(87)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(87)
+msgctxt "SImport_MM,Hint"
+msgid "/Game/BatchImport/"
+msgstr "/Game/BatchImport/"
+
+#. Key:	B2
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(88)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(88)
+msgctxt "SImport_MM,B2"
+msgid "选择路径"
+msgstr "パスを選択"
+
+#. Key:	TexFolder
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(99)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/IntelligentImportOfModelsAndMaterials/Import_MM.cpp(99)
+msgctxt "SImport_MM,TexFolder"
+msgid "贴图子文件夹名: "
+msgstr "テクスチャサブフォルダ名: "
+
+#. Key:	ConfigNameLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(113)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(113)
+msgctxt "MaterialTransferTool,ConfigNameLabel"
+msgid "配置名称: "
+msgstr "設定名: "
+
+#. Key:	ConfigNameHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(117)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(117)
+msgctxt "MaterialTransferTool,ConfigNameHint"
+msgid "这套配置保存时使用的名字"
+msgstr "この設定保存時に使う名前"
+
+#. Key:	SaveConfigBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(128)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(128)
+msgctxt "MaterialTransferTool,SaveConfigBtn"
+msgid "保存配置"
+msgstr "設定を保存"
+
+#. Key:	SaveConfigBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(129)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(129)
+msgctxt "MaterialTransferTool,SaveConfigBtnTip"
+msgid "把当前配置追加保存到 JSON，同名则覆盖该配置"
+msgstr "現在の設定をJSONに追記保存します。同名なら上書き"
+
+#. Key:	ReloadBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(134)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(134)
+msgctxt "MaterialTransferTool,ReloadBtn"
+msgid "重新加载"
+msgstr "再読み込み"
+
+#. Key:	ReloadBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(135)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(135)
+msgctxt "MaterialTransferTool,ReloadBtnTip"
+msgid "丢弃当前修改，从 JSON 重新读取全部配置"
+msgstr "現在の変更を破棄し、JSONから全設定を再読込"
+
+#. Key:	OpenFolderBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(154)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(154)
+msgctxt "MaterialTransferTool,OpenFolderBtn"
+msgid "打开配置"
+msgstr "設定を開く"
+
+#. Key:	OpenFolderBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(164)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(164)
+msgctxt "MaterialTransferTool,OpenFolderBtnTip"
+msgid "打开配置文件夹"
+msgstr "設定フォルダを開く"
+
+#. Key:	TargetLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(175)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(175)
+msgctxt "MaterialTransferTool,TargetLabel"
+msgid "目标母材质: "
+msgstr "対象親マテリアル: "
+
+#. Key:	PathLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(195)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(195)
+msgctxt "MaterialTransferTool,PathLabel"
+msgid "生成保存路径: "
+msgstr "生成保存パス: "
+
+#. Key:	PathHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(199)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(199)
+msgctxt "MaterialTransferTool,PathHint"
+msgid "例如 /Game/Materials/Generated"
+msgstr "例: /Game/Materials/Generated"
+
+#. Key:	GetPathBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(206)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(206)
+msgctxt "MaterialTransferTool,GetPathBtn"
+msgid "获取当前路径"
+msgstr "現在のパスを取得"
+
+#. Key:	SaveToFolderTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(222)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(222)
+msgctxt "MaterialTransferTool,SaveToFolderTip"
+msgid "保存到各自文件夹中"
+msgstr "それぞれのフォルダに保存"
+
+#. Key:	GenMatChk
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(244)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(244)
+msgctxt "MaterialTransferTool,GenMatChk"
+msgid "转换后统一生成材质类"
+msgstr "変換後に統一してマテリアルクラスを生成"
+
+#. Key:	GenInstChk
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(257)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(257)
+msgctxt "MaterialTransferTool,GenInstChk"
+msgid "转换后统一生成材质实例"
+msgstr "変換後に統一してマテリアルインスタンスを生成"
+
+#. Key:	CkeckTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(262)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(262)
+msgctxt "MaterialTransferTool,CkeckTip"
+msgid "两者都不勾选：按源材质类型生成（实例→实例，材质类→材质类）。"
+msgstr "どちらも未チェックの場合：ソースマテリアル種別で生成（インスタンス→インスタンス、マテリアルクラス→マテリアルクラス）。"
+
+#. Key:	TitleL
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(274)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(274)
+msgctxt "MaterialTransferTool,TitleL"
+msgid "母材质参数名 (新)"
+msgstr "親マテリアルパラメータ名 (新)"
+
+#. Key:	TitleR
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(275)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(275)
+msgctxt "MaterialTransferTool,TitleR"
+msgid "源材质变量名 (旧)"
+msgstr "ソースマテリアル変数名 (旧)"
+
+#. Key:	LogTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(288)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(288)
+msgctxt "MaterialTransferTool,LogTitle"
+msgid "执行日志:"
+msgstr "実行ログ:"
+
+#. Key:	AddBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(311)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(311)
+msgctxt "MaterialTransferTool,AddBtn"
+msgid "添加参数行"
+msgstr "パラメータ行を追加"
+
+#. Key:	ClearBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(316)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(316)
+msgctxt "MaterialTransferTool,ClearBtn"
+msgid "清空参数行"
+msgstr "パラメータ行をクリア"
+
+#. Key:	ClearBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(318)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(318)
+msgctxt "MaterialTransferTool,ClearBtnTip"
+msgid "移除所有映射行"
+msgstr "全マッピング行を削除"
+
+#. Key:	RunBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(322)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(322)
+msgctxt "MaterialTransferTool,RunBtn"
+msgid "开始转移参数"
+msgstr "パラメータ転送を開始"
+
+#. Key:	RowDelBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(396)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(396)
+msgctxt "MaterialTransferTool,RowDelBtn"
+msgid "删除"
+msgstr "削除"
+
+#. Key:	RowDelTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(400)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(400)
+msgctxt "MaterialTransferTool,RowDelTip"
+msgid "删除这一行映射"
+msgstr "このマッピング行を削除"
+
+#. Key:	MaterialAttributeTransferHelper
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(66)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(66)
+msgctxt "MaterialTransferTool,MaterialAttributeTransferHelper"
+msgid "使用方法：\n  1. 选择需要继承自的母材质或材质实例类\n  2. 内容浏览器中选择一个或多个需要被转移参数值的材质实例或材质类\n  3. 配置可在下拉框保存多套、随时切换；点 开始转移参数 后生成新材质并赋值参数\n"
+msgstr "使い方:\n  1. 継承元となる親マテリアルまたはマテリアルインスタンスクラスを選択\n  2. コンテンツブラウザで、パラメータ値を転送するマテリアルインスタンスまたはマテリアルクラスを1つ以上選択\n  3. 設定はドロップダウンに複数セット保存・いつでも切替可能。「パラメータ転送を開始」で新マテリアル生成とパラメータ割当\n"
+
+#. Key:	DeleteConfigBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(747)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(747)
+msgctxt "MaterialTransferTool,DeleteConfigBtn"
+msgid "删除"
+msgstr "削除"
+
+#. Key:	DeleteConfigBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(748)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(748)
+msgctxt "MaterialTransferTool,DeleteConfigBtnTip"
+msgid "从 JSON 中删除这套配置"
+msgstr "この設定をJSONから削除"
+
+#. Key:	ConfigLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(78)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(78)
+msgctxt "MaterialTransferTool,ConfigLabel"
+msgid "配置: "
+msgstr "設定: "
+
+#. Key:	NewConfigBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(91)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(91)
+msgctxt "MaterialTransferTool,NewConfigBtn"
+msgid "新建空配置"
+msgstr "新規空設定"
+
+#. Key:	NewConfigBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(92)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/MaterialAttributeTransfer/MaterialAttributeTransfer.cpp(92)
+msgctxt "MaterialTransferTool,NewConfigBtnTip"
+msgid "清空当前配置，从零开始配置一套新的转移方案"
+msgstr "現在の設定をクリアし、ゼロから新しい転送方案を設定"
+
+#. Key:	Help
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(104)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(104)
+msgctxt "PhysicsPlacerTool,Help"
+msgid "物理摆放工具：\n  1. 进入  生成模式  后，在视口里移动光标会从光标向前检测地面，点击即在该处生成物理物体（带偏移，默认上方 2 米掉落）。Alt+点击不生成。\n  2. 生成模式支持多个网格：从内容浏览器把 StaticMesh 拖到  生成网格列表  即可加入\n  3. 或在视口里框选/点选若干物体对象，点 获取编辑器选中 加入下方列表，再 启动模拟 让它们自由掉落；停止模拟 停下并保留当前位置。\n  4. 模拟前/中/后都可  保存当前位置  记成一份带名字的摆位；不理想时用 位置回溯 返回保存时位置。\n  （物体需带网格等 PrimitiveComponent；模拟时物体会被设为可移动并开启重力）"
+msgstr "物理配置ツール:\n  1. 生成モードに入ると、ビューポート内でカーソルを動かすと前方の地面を検出。クリックでその場に物理オブジェクトを生成（オフセット付き、既定は上方2mから落下）。Alt+クリックは生成しない。\n  2. 生成モードは複数メッシュ対応：コンテンツブラウザのStaticMeshを生成メッシュリストへドラッグで追加。\n  3. またはビューポートで複数オブジェクトを枠/クリック選択し、「エディタ選択を取得」で下のリストへ追加、その後「シミュレーション開始」で自由落下。「シミュレーション停止」で停止し現在位置を保持。\n  4. シミュレーション前／中／後いつでも「現在位置を保存」で名前付きポーズを記録。不満な場合は「位置ロールバック」で保存時位置へ戻る。\n  （オブジェクトはメッシュ等のPrimitiveComponentが必要。シミュレーション中は可動・重力有効化）"
+
+#. Key:	RemoveSpawnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(1144)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(1144)
+msgctxt "PhysicsPlacerTool,RemoveSpawnTip"
+msgid "从生成列表移除该网格"
+msgstr "生成リストからこのメッシュを削除"
+
+#. Key:	RemoveSpawnBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(1152)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(1152)
+msgctxt "PhysicsPlacerTool,RemoveSpawnBtn"
+msgid "移除"
+msgstr "削除"
+
+#. Key:	SelTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(123)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(123)
+msgctxt "PhysicsPlacerTool,SelTitle"
+msgid "选择场景物体"
+msgstr "シーンオブジェクトを選択"
+
+#. Key:	CaptureBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(132)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(132)
+msgctxt "PhysicsPlacerTool,CaptureBtn"
+msgid "获取编辑器选中"
+msgstr "エディタ選択を取得"
+
+#. Key:	CaptureBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(133)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(133)
+msgctxt "PhysicsPlacerTool,CaptureBtnTip"
+msgid "把当前视口里选中的 Actor 加入下方列表"
+msgstr "ビューポートで選択中のアクターを下のリストに追加"
+
+#. Key:	ClearBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(139)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(139)
+msgctxt "PhysicsPlacerTool,ClearBtn"
+msgid "清空列表"
+msgstr "リストをクリア"
+
+#. Key:	SpawnTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(170)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(170)
+msgctxt "PhysicsPlacerTool,SpawnTitle"
+msgid "生成模式"
+msgstr "生成モード"
+
+#. Key:	SpawnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(171)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(171)
+msgctxt "PhysicsPlacerTool,SpawnTip"
+msgid "光标检测地面，点击生成物理物体"
+msgstr "カーソルが地面を検出、クリックで物理オブジェクトを生成"
+
+#. Key:	ExitSpawnBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(183)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(183)
+msgctxt "PhysicsPlacerTool,ExitSpawnBtn"
+msgid "退出生成模式"
+msgstr "生成モードを終了"
+
+#. Key:	EnterSpawnBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(184)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(184)
+msgctxt "PhysicsPlacerTool,EnterSpawnBtn"
+msgid "进入生成模式"
+msgstr "生成モードに入る"
+
+#. Key:	SpawnBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(187)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(187)
+msgctxt "PhysicsPlacerTool,SpawnBtnTip"
+msgid "进入后在视口点击地面即生成物理物体；Alt+点击不生成"
+msgstr "入室後、ビューポートで地面をクリックすると物理オブジェクトを生成。Alt+クリックは生成しない"
+
+#. Key:	MeshListTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(195)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(195)
+msgctxt "PhysicsPlacerTool,MeshListTitle"
+msgid "生成网格列表"
+msgstr "生成メッシュリスト"
+
+#. Key:	MeshListTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(196)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(196)
+msgctxt "PhysicsPlacerTool,MeshListTip"
+msgid "可多选，勾选框控制是否生成；可从内容浏览器拖入网格"
+msgstr "複数選択可、チェックボックスで生成可否を制御。コンテンツブラウザからメッシュをドラッグ可能"
+
+#. Key:	AddMeshBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(230)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(230)
+msgctxt "PhysicsPlacerTool,AddMeshBtn"
+msgid "+ 添加网格"
+msgstr "+ メッシュを追加"
+
+#. Key:	AddMeshBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(231)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(231)
+msgctxt "PhysicsPlacerTool,AddMeshBtnTip"
+msgid "追加一个默认立方体条目（也可从内容浏览器拖入具体网格）"
+msgstr "既定の立方体エントリを追加（コンテンツブラウザから具体メッシュをドラッグ可）"
+
+#. Key:	DropHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(238)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(238)
+msgctxt "PhysicsPlacerTool,DropHint"
+msgid "可从内容浏览器中拖入添加"
+msgstr "コンテンツブラウザからドラッグ＆ドロップで追加可能"
+
+#. Key:	SpawnOptTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(249)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(249)
+msgctxt "PhysicsPlacerTool,SpawnOptTitle"
+msgid "生成选项"
+msgstr "生成オプション"
+
+#. Key:	RandomSpawnTxt
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(263)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(263)
+msgctxt "PhysicsPlacerTool,RandomSpawnTxt"
+msgid "随机生成网格"
+msgstr "ランダムメッシュ生成"
+
+#. Key:	RandomSpawnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(264)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(264)
+msgctxt "PhysicsPlacerTool,RandomSpawnTip"
+msgid "不勾选则按列表顺序生成"
+msgstr "未チェック時はリスト順に生成"
+
+#. Key:	RandOffLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(273)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(273)
+msgctxt "PhysicsPlacerTool,RandOffLabel"
+msgid "随机偏移系数: "
+msgstr "ランダムオフセット係数: "
+
+#. Key:	RandOffUnit
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(274)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(274)
+msgctxt "PhysicsPlacerTool,RandOffUnit"
+msgid "（给生成位置叠加 ±该值的随机抖动，单位厘米）"
+msgstr "（生成位置に±この値のランダム揺らぎを加算、単位はセンチメートル）"
+
+#. Key:	SimSpeedLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(292)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(292)
+msgctxt "PhysicsPlacerTool,SimSpeedLabel"
+msgid "模拟速度系数: "
+msgstr "シミュレーション速度係数: "
+
+#. Key:	BaseOffTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(310)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(310)
+msgctxt "PhysicsPlacerTool,BaseOffTitle"
+msgid "基准偏移(米)"
+msgstr "基準オフセット(メートル)"
+
+#. Key:	OffX
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(318)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(318)
+msgctxt "PhysicsPlacerTool,OffX"
+msgid "X"
+msgstr "X"
+
+#. Key:	OffY
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(330)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(330)
+msgctxt "PhysicsPlacerTool,OffY"
+msgid "Y"
+msgstr "Y"
+
+#. Key:	OffZ
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(342)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(342)
+msgctxt "PhysicsPlacerTool,OffZ"
+msgid "Z"
+msgstr "Z"
+
+#. Key:	SimTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(365)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(365)
+msgctxt "PhysicsPlacerTool,SimTitle"
+msgid "物理模拟"
+msgstr "物理シミュレーション"
+
+#. Key:	SimulatingBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(377)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(377)
+msgctxt "PhysicsPlacerTool,SimulatingBtn"
+msgid "正在模拟..."
+msgstr "シミュレーション中..."
+
+#. Key:	StartBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(378)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(378)
+msgctxt "PhysicsPlacerTool,StartBtn"
+msgid "启动模拟"
+msgstr "シミュレーション開始"
+
+#. Key:	StartBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(382)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(382)
+msgctxt "PhysicsPlacerTool,StartBtnTip"
+msgid "让列表里的物体开启物理、开始自由掉落"
+msgstr "リスト内オブジェクトの物理を有効化し、自由落下させる"
+
+#. Key:	StopBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(388)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(388)
+msgctxt "PhysicsPlacerTool,StopBtn"
+msgid "停止模拟"
+msgstr "シミュレーション停止"
+
+#. Key:	StopBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(390)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(390)
+msgctxt "PhysicsPlacerTool,StopBtnTip"
+msgid "停下物理模拟，物体保留在当前（掉落到的）位置"
+msgstr "物理シミュレーションを停止。オブジェクトは現在（落下先）位置に残る"
+
+#. Key:	PoseTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(406)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(406)
+msgctxt "PhysicsPlacerTool,PoseTitle"
+msgid "位置回溯（摆位存档）"
+msgstr "位置ロールバック（ポーズ保存）"
+
+#. Key:	PoseLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(415)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(415)
+msgctxt "PhysicsPlacerTool,PoseLabel"
+msgid "选择存档: "
+msgstr "アーカイブを選択: "
+
+#. Key:	PoseNameLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(435)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(435)
+msgctxt "PhysicsPlacerTool,PoseNameLabel"
+msgid "存档名称: "
+msgstr "アーカイブ名: "
+
+#. Key:	PoseNameHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(440)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(440)
+msgctxt "PhysicsPlacerTool,PoseNameHint"
+msgid "保存时使用的名字，可自定义"
+msgstr "保存時に使う名前、カスタマイズ可"
+
+#. Key:	SavePoseBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(453)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(453)
+msgctxt "PhysicsPlacerTool,SavePoseBtn"
+msgid "保存当前位置"
+msgstr "現在位置を保存"
+
+#. Key:	SavePoseBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(454)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(454)
+msgctxt "PhysicsPlacerTool,SavePoseBtnTip"
+msgid "把列表里物体的 位置/旋转/缩放 记成一份带名字的摆位（同名覆盖，不同名追加）"
+msgstr "リスト内オブジェクトの位置／回転／スケールを名前付きポーズとして記録（同名は上書き、異名は追加）"
+
+#. Key:	RestoreBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(460)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(460)
+msgctxt "PhysicsPlacerTool,RestoreBtn"
+msgid "位置回溯"
+msgstr "位置ロールバック"
+
+#. Key:	RestoreBtnTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(461)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(461)
+msgctxt "PhysicsPlacerTool,RestoreBtnTip"
+msgid "把选中的那套摆位重新套回当前关卡里标签匹配的物体"
+msgstr "選択したポーズを、現在のレベルでタグが一致するオブジェクトに再適用"
+
+#. Key:	DeletePoseBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(467)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(467)
+msgctxt "PhysicsPlacerTool,DeletePoseBtn"
+msgid "删除存档"
+msgstr "アーカイブを削除"
+
+#. Key:	OpenFolderBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(478)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(478)
+msgctxt "PhysicsPlacerTool,OpenFolderBtn"
+msgid "打开配置文件夹"
+msgstr "設定フォルダを開く"
+
+#. Key:	SimRealtimeOverride
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(57)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(57)
+msgctxt "PhysicsPlacerTool,SimRealtimeOverride"
+msgid "物理摆放模拟"
+msgstr "物理配置シミュレーション"
+
+#. Key:	RemoveActorBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(629)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/PhysicsPlacer/PhysicsPlacer.cpp(629)
+msgctxt "PhysicsPlacerTool,RemoveActorBtn"
+msgid "移除"
+msgstr "削除"
+
+#. Key:	ClearStaged
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(108)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(108)
+msgctxt "SAAU,ClearStaged"
+msgid "清空列表"
+msgstr "リストをクリア"
+
+#. Key:	ApplyOnly
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(119)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(119)
+msgctxt "SAAU,ApplyOnly"
+msgid "批量添加"
+msgstr "一括追加"
+
+#. Key:	ApplyFull
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(124)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(124)
+msgctxt "SAAU,ApplyFull"
+msgid "批量添加并应用"
+msgstr "一括追加して適用"
+
+#. Key:	BatchModTx
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(180)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(180)
+msgctxt "SAAU,BatchModTx"
+msgid "批量处理动画修饰符"
+msgstr "アニメーション修飾子を一括処理"
+
+#. Key:	Title
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(29)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(29)
+msgctxt "SAAU,Title"
+msgid "相关操作请在资产（或场景Actor）右键菜单中脚本操作中查看\n 若是没有请自行创建类继承自AssetAction和ActorAction"
+msgstr "関連する操作は、アセット（またはシーンのアクター）の右クリックコンテキストメニューの「スクリプト操作」で確認してください。\n 該当がない場合は、自分で AssetAction または ActorAction を継承したクラスを作成してください。"
+
+#. Key:	AddAnimationModify
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(43)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(43)
+msgctxt "SAAU,AddAnimationModify"
+msgid "批量添加动画修饰符并应用"
+msgstr "アニメーション修飾子を一括追加して適用"
+
+#. Key:	AddAnimationModifyDesc
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(49)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(49)
+msgctxt "SAAU,AddAnimationModifyDesc"
+msgid "为选中的骨骼网格体批量应用动画修饰符"
+msgstr "選択したスケルタルメッシュにアニメーションモディファイアを一括適用します"
+
+#. Key:	SelectLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(65)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(65)
+msgctxt "SAAU,SelectLabel"
+msgid "选择: "
+msgstr "選択: "
+
+#. Key:	AddBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(83)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(83)
+msgctxt "SAAU,AddBtn"
+msgid "确认选择"
+msgstr "選択を確定"
+
+#. Key:	StagedHeader
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(93)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Right-ClickOperationTool/AAU.cpp(93)
+msgctxt "SAAU,StagedHeader"
+msgid "（已选列表）"
+msgstr "（選択済みリスト）"
+
+#. Key:	SaveNextToTexturesTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(113)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(113)
+msgctxt "SSpawnMaterial,SaveNextToTexturesTip"
+msgid "勾选后忽略上方保存位置，材质球保存到选中贴图所在目录"
+msgstr "チェック時、上の保存場所を無視し、マテリアルを選択テクスチャのあるディレクトリに保存"
+
+#. Key:	SaveNextToTextures
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(118)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(118)
+msgctxt "SSpawnMaterial,SaveNextToTextures"
+msgid "保存到贴图同级目录"
+msgstr "テクスチャと同じディレクトリに保存"
+
+#. Key:	SaveNextToTexturesTip2
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(119)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(119)
+msgctxt "SSpawnMaterial,SaveNextToTexturesTip2"
+msgid "勾选后忽略上方保存位置，材质球保存到选中贴图所在目录"
+msgstr "チェック時、上の保存場所を無視し、マテリアルを選択テクスチャのあるディレクトリに保存"
+
+#. Key:	Dst
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(128)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(128)
+msgctxt "SSpawnMaterial,Dst"
+msgid "保存位置: "
+msgstr "保存場所: "
+
+#. Key:	DstHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(132)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(132)
+msgctxt "SSpawnMaterial,DstHint"
+msgid "/Game/Materials"
+msgstr "/Game/Materials"
+
+#. Key:	PrefixLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1342)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1342)
+msgctxt "SSpawnMaterial,PrefixLabel"
+msgid "前缀:"
+msgstr "プレフィックス:"
+
+#. Key:	BrowseDst
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(136)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(136)
+msgctxt "SSpawnMaterial,BrowseDst"
+msgid "选择路径"
+msgstr "パスを選択"
+
+#. Key:	SuffixLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1364)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1364)
+msgctxt "SSpawnMaterial,SuffixLabel"
+msgid "后缀:"
+msgstr "サフィックス:"
+
+#. Key:	SuffixHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1369)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(1369)
+msgctxt "SSpawnMaterial,SuffixHint"
+msgid "输入后缀内容..."
+msgstr "サフィックス内容を入力..."
+
+#. Key:	NamingRules
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(144)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(144)
+msgctxt "SSpawnMaterial,NamingRules"
+msgid "资产命名详细规则"
+msgstr "アセット命名の詳細ルール"
+
+#. Key:	CreateMI
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(172)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(172)
+msgctxt "SSpawnMaterial,CreateMI"
+msgid "创建实例并应用"
+msgstr "インスタンスを作成して適用"
+
+#. Key:	CreateMITip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(173)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(173)
+msgctxt "SSpawnMaterial,CreateMITip"
+msgid "在母材质基础上生成材质实例"
+msgstr "親マテリアルをベースにマテリアルインスタンスを生成"
+
+#. Key:	UseMI
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(188)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(188)
+msgctxt "SSpawnMaterial,UseMI"
+msgid "使用父材质实例"
+msgstr "親マテリアルインスタンスを使用"
+
+#. Key:	UseMITip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(189)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(189)
+msgctxt "SSpawnMaterial,UseMITip"
+msgid "从已有父材质实例复制并设置贴图参数"
+msgstr "既存の親マテリアルインスタンスからコピーし、テクスチャパラメータを設定"
+
+#. Key:	CreateGenMat
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(213)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(213)
+msgctxt "SSpawnMaterial,CreateGenMat"
+msgid "生成通用父材质及实例"
+msgstr "共通親マテリアルとインスタンスを生成"
+
+#. Key:	CreateGenMatTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(214)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(214)
+msgctxt "SSpawnMaterial,CreateGenMatTip"
+msgid "自动创建一个带有标准参数(BaseColor, Normal, ORM, AO, Roughness, Metallic 等)\n和静态开关的父材质及其对应的实例，供「使用父材质实例」模式使用。"
+msgstr "標準パラメータ(BaseColor, Normal, ORM, AO, Roughness, Metallic等)と静的スイッチを持つ親マテリアルと対応インスタンスを自動生成し、「親マテリアルインスタンスを使用」モードで利用。"
+
+#. Key:	ParamConfig
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(228)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(228)
+msgctxt "SSpawnMaterial,ParamConfig"
+msgid "贴图参数名配置"
+msgstr "テクスチャパラメータ名設定"
+
+#. Key:	ParamConfigTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(229)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(229)
+msgctxt "SSpawnMaterial,ParamConfigTip"
+msgid "如果使用自己自定义的材质球，请根据对应通道填写参数名"
+msgstr "独自のカスタムマテリアルを使う場合、対応チャンネルに応じてパラメータ名を入力"
+
+#. Key:	Generate
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(255)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(255)
+msgctxt "SSpawnMaterial,Generate"
+msgid "生成材质"
+msgstr "マテリアル生成"
+
+#. Key:	LogLabel
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(269)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(269)
+msgctxt "SSpawnMaterial,LogLabel"
+msgid "任务日志:"
+msgstr "タスクログ:"
+
+#. Key:	Clear
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(273)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(273)
+msgctxt "SSpawnMaterial,Clear"
+msgid "清空日志"
+msgstr "ログをクリア"
+
+#. Key:	Title
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(71)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(71)
+msgctxt "SSpawnMaterial,Title"
+msgid "批量材质球生成"
+msgstr "一括マテリアル生成"
+
+#. Key:	Desc
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(85)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(85)
+msgctxt "SSpawnMaterial,Desc"
+msgid "本工具将内容浏览器中选中的纹理贴图，根据文件名关键词自动识别贴图通道类型（基础色 / 法线 / ORM / 粗糙度 / 金属度 / 自发光 / 透明度等），并据此生成材质球。"
+msgstr "本ツールはコンテンツブラウザで選択したテクスチャから、ファイル名キーワードでチャンネル種別（ベースカラー／法線／ORM／粗さ／金属度／自己発光／透過など）を自動判別し、それに基づきマテリアルを生成します。"
+
+#. Key:	Usage
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(94)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/SpawnMaterial/SpawnMaterial.cpp(94)
+msgctxt "SSpawnMaterial,Usage"
+msgid "使用方法：\n  1. 在内容浏览器中选中一个或多个纹理贴图（除此之外也可以加选一个或多个模型）\n  2. 在下方设置保存路径与生成模式\n  3. 点击「生成材质」按钮（如果选择中包含模型，生成的材质会赋予给对应的模型，前提是模型命名规范）\n"
+msgstr "使い方:\n  1. コンテンツブラウザでテクスチャを1つ以上選択（さらにモデルを1つ以上加選可）\n  2. 下で保存パスと生成モードを設定\n  3. 「マテリアル生成」ボタンをクリック（選択にモデルが含まれる場合、命名が正しければ生成マテリアルが対応モデルに割当）\n"
+
+#. Key:	ToolTitle_Import_MM
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(31)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(31)
+msgctxt "Tools,ToolTitle_Import_MM"
+msgid "批量导入模型和材质"
+msgstr "モデルとマテリアルの一括インポート"
+
+#. Key:	ToolDetail
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(32)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(32)
+msgctxt "Tools,ToolDetail"
+msgid "批量导入模型和材质，同文件下的模型以及附属的纹理贴图会自动连接材质球并赋予模型"
+msgstr "モデルとマテリアルを一括インポート。同ファイル内のモデルと付属テクスチャは自動的にマテリアルと接続されモデルに割当"
+
+#. Key:	ToolTitle_ContextMenu
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(41)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(41)
+msgctxt "Tools,ToolTitle_ContextMenu"
+msgid "右键菜单操作脚本"
+msgstr "右クリックメニュー操作スクリプト"
+
+#. Key:	ToolDetail_ContextMenu
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(42)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(42)
+msgctxt "Tools,ToolDetail_ContextMenu"
+msgid "右键菜单操作脚本"
+msgstr "右クリックメニューの操作スクリプト"
+
+#. Key:	ToolTitle_VariableCopier
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(51)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(51)
+msgctxt "Tools,ToolTitle_VariableCopier"
+msgid "蓝图变量批量复制"
+msgstr "ブループリント変数の一括コピー"
+
+#. Key:	ToolDetail_VariableCopier
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(52)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(52)
+msgctxt "Tools,ToolDetail_VariableCopier"
+msgid "多选两个蓝图的变量（函数，宏等），复制/剪切后一次性粘贴到另一个蓝图"
+msgstr "2つのブループリントから変数（関数、マクロなど）を選択し、コピー／カットして別のブループリントにまとめて貼り付けます"
+
+#. Key:	ToolTitle_SpawnMaterial
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(61)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(61)
+msgctxt "Tools,ToolTitle_SpawnMaterial"
+msgid "批量材质球生成"
+msgstr "マテリアルの一括生成"
+
+#. Key:	ToolDetail_SpawnMaterial
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(62)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(62)
+msgctxt "Tools,ToolDetail_SpawnMaterial"
+msgid "选择若干纹理生成材质球或材质实例并赋予模型"
+msgstr "テクスチャを選択してマテリアルまたはマテリアルインスタンスを生成し、モデルに割り当てます"
+
+#. Key:	ToolTitle_MaterialTransfer
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(71)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(71)
+msgctxt "Tools,ToolTitle_MaterialTransfer"
+msgid "材质属性转移"
+msgstr "マテリアル属性転送"
+
+#. Key:	ToolDetail_MaterialTransfer
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(72)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(72)
+msgctxt "Tools,ToolDetail_MaterialTransfer"
+msgid "选择若干材质球或材质实例并通过变量命名将引用转移到新的材质球或材质实例"
+msgstr "マテリアルまたはマテリアルインスタンスを選択し、変数名を通じて参照を新しいマテリアル／マテリアルインスタンスに転送します"
+
+#. Key:	ToolTitle_AutoPrefix
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(80)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(80)
+msgctxt "Tools,ToolTitle_AutoPrefix"
+msgid "自动前缀"
+msgstr "自動プレフィックス"
+
+#. Key:	ToolDetail_AutoPrefix
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(81)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(81)
+msgctxt "Tools,ToolDetail_AutoPrefix"
+msgid "常见新蓝图类时自动添加该类前缀"
+msgstr "一般的な新しいブループリントクラス作成時に、そのクラスのプレフィックスを自動で追加します"
+
+#. Key:	ToolTitle_PhysicsPlacer
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(90)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(90)
+msgctxt "Tools,ToolTitle_PhysicsPlacer"
+msgid "物理摆放"
+msgstr "物理配置"
+
+#. Key:	ToolDetail_PhysicsPlacer
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(91)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/Tools.cpp(91)
+msgctxt "Tools,ToolDetail_PhysicsPlacer"
+msgid "选中多个场景物体，启动物理自由掉落摆放，并支持保存/回溯摆位"
+msgstr "複数のシーンオブジェクトを選択し、物理ベースの自由落下配置を開始します。配置の保存／取り消しにも対応"
+
+#. Key:	PendingTitle
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(158)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(158)
+msgctxt "VariableCopier,PendingTitle"
+msgid "待处理（拖到这里的，点确定才生效）："
+msgstr "処理待ち（ここにドラッグしたものはOKクリックで反映）:"
+
+#. Key:	AutoPrefixHelp
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(182)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(182)
+msgctxt "VariableCopier,AutoPrefixHelp"
+msgid "使用方法：\n  1. 两边选择要互相复制的蓝图类（拖动前按住shift为复制，alt为剪切）\n  2. 将要复制或剪切的变量，宏，函数等拖进对方待处理区域内\n  3. 点击 确定 即可生效\n"
+msgstr "使い方:\n  1. 両側で相互コピーするブループリントクラスを選択（ドラッグ前にShiftでコピー、Altでカット）\n  2. コピー／カットしたい変数・マクロ・関数などを相手側の処理待ち領域へドラッグ\n  3. 「OK」をクリックで反映\n"
+
+#. Key:	ConfirmBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(212)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(212)
+msgctxt "VariableCopier,ConfirmBtn"
+msgid "确定"
+msgstr "OK"
+
+#. Key:	ConfirmTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(213)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(213)
+msgctxt "VariableCopier,ConfirmTip"
+msgid "把两个面板待处理里的东西真正写进各自蓝图"
+msgstr "両パネルの処理待ち項目を実際に各ブループリントに書き込む"
+
+#. Key:	RefreshBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(219)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(219)
+msgctxt "VariableCopier,RefreshBtn"
+msgid "刷新"
+msgstr "更新"
+
+#. Key:	RefreshTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(220)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(220)
+msgctxt "VariableCopier,RefreshTip"
+msgid "重新扫描两个蓝图，检查内容是否变化"
+msgstr "両ブループリントを再スキャンし変更を確認"
+
+#. Key:	ResetBtn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(226)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(226)
+msgctxt "VariableCopier,ResetBtn"
+msgid "重置"
+msgstr "リセット"
+
+#. Key:	ResetTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(227)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(227)
+msgctxt "VariableCopier,ResetTip"
+msgid "清空两个面板的待处理区（不影响蓝图）"
+msgstr "両パネルの処理待ち領域をクリア（ブループリントには影響しない）"
+
+#. Key:	NVar
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(287)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(287)
+msgctxt "VariableCopier,NVar"
+msgid "变量"
+msgstr "変数"
+
+#. Key:	NDisp
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(288)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(288)
+msgctxt "VariableCopier,NDisp"
+msgid "事件分发器"
+msgstr "イベントディスパッチャ"
+
+#. Key:	NFn
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(289)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(289)
+msgctxt "VariableCopier,NFn"
+msgid "函数"
+msgstr "関数"
+
+#. Key:	NMacro
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(290)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(290)
+msgctxt "VariableCopier,NMacro"
+msgid "宏"
+msgstr "マクロ"
+
+#. Key:	NEnv
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(291)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(291)
+msgctxt "VariableCopier,NEnv"
+msgid "事件图表"
+msgstr "イベントグラフ"
+
+#. Key:	CatFmt
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(369)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(369)
+msgctxt "VariableCopier,CatFmt"
+msgid "{0} ({1})"
+msgstr "{0} ({1})"
+
+#. Key:	CatFmtP
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(413)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(413)
+msgctxt "VariableCopier,CatFmtP"
+msgid "{0} ({1})"
+msgstr "{0} ({1})"
+
+#. Key:	M_Copy
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(646)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(646)
+msgctxt "VariableCopier,M_Copy"
+msgid "复制"
+msgstr "コピー"
+
+#. Key:	M_CopyTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(647)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(647)
+msgctxt "VariableCopier,M_CopyTip"
+msgid "这一项应用时会复制（源蓝图保留）"
+msgstr "適用時にコピーされます（ソースBPは保持）"
+
+#. Key:	M_Cut
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(652)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(652)
+msgctxt "VariableCopier,M_Cut"
+msgid "剪切"
+msgstr "カット"
+
+#. Key:	M_CutTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(653)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(653)
+msgctxt "VariableCopier,M_CutTip"
+msgid "这一项应用时会剪切（从源蓝图移除）"
+msgstr "適用時にカットされます（ソースBPから削除）"
+
+#. Key:	M_Del
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(658)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(658)
+msgctxt "VariableCopier,M_Del"
+msgid "移除"
+msgstr "削除"
+
+#. Key:	M_DelTip
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(659)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/Tools/VariableCopier/VariableCopier.cpp(659)
+msgctxt "VariableCopier,M_DelTip"
+msgid "从待处理区里拿掉这一项"
+msgstr "処理待ち領域からこの項目を削除"
+
+#. Key:	SearchHint
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(148)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(148)
+msgctxt "ToolsBox,SearchHint"
+msgid "工具名称"
+msgstr "ツール名"
+
+#. Key:	ToolBoxAuthor
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(158)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(158)
+msgctxt "FToolsBoxModule,ToolBoxAuthor"
+msgid "详情"
+msgstr "詳細"
+
+#. Key:	ToolsBox
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(44)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(44)
+msgctxt "FToolsBoxModule,ToolsBox"
+msgid "工具箱"
+msgstr "ツールボックス"
+
+#. Key:	PhysicsPlacerSpawnMode
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(65)
+#: Plugins/ToolsBox/Source/ToolsBox/Private/ToolsBox.cpp(65)
+msgctxt "FToolsBoxModule,PhysicsPlacerSpawnMode"
+msgid "物理摆放生成"
+msgstr "物理配置生成"
+
+#. Key:	SuBaseToolsBox_PluginCommand
+#. SourceLocation:	Plugins/ToolsBox/Source/ToolsBox/Public/OpenToolsBox_Command.h(15)
+#: Plugins/ToolsBox/Source/ToolsBox/Public/OpenToolsBox_Command.h(15)
+msgctxt "Contexts,SuBaseToolsBox_PluginCommand"
+msgid "SuBaseToolsBox_PluginCommand"
+msgstr "SuBaseToolsBox_PluginCommand"
+
