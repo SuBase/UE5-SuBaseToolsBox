@@ -1,4 +1,5 @@
-﻿#include "Tools/Tools.h"
+// Copyright 2026 SuBase. All Rights Reserved.
+#include "Tools/Tools.h"
 #include "Internationalization/Internationalization.h"
 #include "Templates/SharedPointer.h"
 #include "Tools/AutoPrefix/AutoPrefix.h"

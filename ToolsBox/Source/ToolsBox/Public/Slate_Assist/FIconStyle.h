@@ -1,4 +1,5 @@
-﻿#pragma once
+// Copyright 2026 SuBase. All Rights Reserved.
+#pragma once
 #include "Styling/ISlateStyle.h"
 #include "UObject/NameTypes.h"
 

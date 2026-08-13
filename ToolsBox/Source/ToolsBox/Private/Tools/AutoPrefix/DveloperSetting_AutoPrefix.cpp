@@ -1,4 +1,5 @@
-﻿// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright 2026 SuBase. All Rights Reserved.
+// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "Tools/AutoPrefix/DveloperSetting_AutoPrefix.h"

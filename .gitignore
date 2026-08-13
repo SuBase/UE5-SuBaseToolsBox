@@ -20,6 +20,7 @@ ToolsBox/Source/ToolsBox/Public/Tools/ToolUserDataSave
 # ===== 合并 / 临时代码碎片 =====
 merged_code.txt
 Source/merged_code.txt
+*.zip
 
 # ===== 代理 / 工作区记忆（不属于插件本体） =====
 .workbuddy/

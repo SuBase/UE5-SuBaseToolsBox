@@ -1,4 +1,5 @@
-﻿#include "Slate_Assist/SlateAssistBuildFunctionLibrary.h"
+// Copyright 2026 SuBase. All Rights Reserved.
+#include "Slate_Assist/SlateAssistBuildFunctionLibrary.h"
 
 #include "Components/VerticalBox.h"
 #include "Framework/Application/SlateApplication.h"

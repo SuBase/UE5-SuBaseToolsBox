@@ -1,4 +1,5 @@
-﻿#include "Slate_Assist/LanguagesStitch.h"
+// Copyright 2026 SuBase. All Rights Reserved.
+#include "Slate_Assist/LanguagesStitch.h"
 
 #include "Dom/JsonObject.h"
 #include "Misc/FileHelper.h"

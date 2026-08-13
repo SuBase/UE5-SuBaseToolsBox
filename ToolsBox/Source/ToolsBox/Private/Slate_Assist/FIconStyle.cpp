@@ -1,4 +1,5 @@
-﻿#include "Slate_Assist/FIconStyle.h"
+// Copyright 2026 SuBase. All Rights Reserved.
+#include "Slate_Assist/FIconStyle.h"
 
 #include "Brushes/SlateImageBrush.h"
 #include "Styling/SlateStyleRegistry.h"

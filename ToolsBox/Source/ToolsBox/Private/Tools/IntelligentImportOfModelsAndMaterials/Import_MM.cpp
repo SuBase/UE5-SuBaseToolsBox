@@ -1,4 +1,5 @@
-﻿
+// Copyright 2026 SuBase. All Rights Reserved.
+
 #include "Tools/IntelligentImportOfModelsAndMaterials/Import_MM.h"
 
 #include "AssetToolsModule.h"

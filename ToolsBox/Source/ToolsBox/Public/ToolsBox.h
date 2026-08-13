@@ -1,3 +1,4 @@
+// Copyright 2026 SuBase. All Rights Reserved.
 #pragma once
 
 

@@ -1,3 +1,4 @@
+// Copyright 2026 SuBase. All Rights Reserved.
 #include "ToolsBox.h"
 
 #include "Editor.h"

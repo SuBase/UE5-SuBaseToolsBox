@@ -1,4 +1,5 @@
-﻿#pragma once
+// Copyright 2026 SuBase. All Rights Reserved.
+#pragma once
 #include "Templates/SharedPointer.h"
 #include "Widgets/SWindow.h"
 #include "Widgets/Notifications/SNotificationList.h"

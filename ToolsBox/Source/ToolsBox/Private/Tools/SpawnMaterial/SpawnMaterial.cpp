@@ -1,3 +1,4 @@
+// Copyright 2026 SuBase. All Rights Reserved.
 #include "Tools/SpawnMaterial/SpawnMaterial.h"
 
 // Content Browser

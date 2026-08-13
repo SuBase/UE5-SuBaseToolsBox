@@ -1,4 +1,5 @@
-﻿#pragma once
+// Copyright 2026 SuBase. All Rights Reserved.
+#pragma once
 #include "Containers/Array.h"
 #include "Templates/SharedPointer.h"
 #include "Widgets/Input/SComboBox.h" 

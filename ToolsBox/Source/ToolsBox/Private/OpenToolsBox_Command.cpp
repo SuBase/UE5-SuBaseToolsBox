@@ -1,4 +1,5 @@
-﻿#include "OpenToolsBox_Command.h"
+// Copyright 2026 SuBase. All Rights Reserved.
+#include "OpenToolsBox_Command.h"
 
 #define LOCTEXT_NAMESPACE "OpenToolsBox_Command"
 
