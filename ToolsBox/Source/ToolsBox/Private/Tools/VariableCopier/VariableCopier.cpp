@@ -34,10 +34,10 @@
 #define LOCTEXT_NAMESPACE "VariableCopier"
 
 
-class SDropTarget : public SBorder
+class SToolsBoxDropTarget : public SBorder
 {
 public:
-	SLATE_BEGIN_ARGS(SDropTarget)
+	SLATE_BEGIN_ARGS(SToolsBoxDropTarget)
 		: _OnDrop()
 		, _OnDragOver()
 		, _BorderImage(nullptr)
@@ -148,7 +148,7 @@ void SVariableCopier::Construct(const FArguments& InArgs)
 			// 待处理区（对面拖进来的东西停这里，等"确定"才落地）
 			+ SVerticalBox::Slot().FillHeight(0.4f).Padding(5, 5, 5, 0)
 			[
-				SNew(SDropTarget)
+				SNew(SToolsBoxDropTarget)
 				.BorderImage(FAppStyle::GetBrush("ToolPanel.GroupBorder"))
 				.OnDrop(FOnDrop::CreateLambda([this, PanelIdx](const FGeometry& G, const FDragDropEvent& E) { return HandleDrop(PanelIdx, G, E); }))
 				.OnDragOver(FOnDragOver::CreateLambda([this, PanelIdx](const FGeometry& G, const FDragDropEvent& E) { return HandleDragOver(PanelIdx, G, E); }))
